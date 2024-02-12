@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TheDogShow</string>
+    <string name="available_dog_breeds">Available dog breeds</string>
 </resources>
